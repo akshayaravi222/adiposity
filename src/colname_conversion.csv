@@ -1,0 +1,47 @@
+Adiposity,adiposity_type,body_part
+android_bone_mass_f23244_2_0,Android bone mass,Abdomen
+android_fat_mass_f23245_2_0,Android fat mass,Abdomen
+android_lean_mass_f23246_2_0,Android lean mass,Abdomen
+android_tissue_fat_percentage_f23247_2_0,Android tissue fat percentage,Abdomen
+android_total_mass_f23248_2_0,Android total mass,Abdomen
+arm_fat_mass_left_f23249_2_0,Arm fat mass left,Arm
+arm_fat_mass_right_f23253_2_0,Arm fat mass right,Arm
+arm_lean_mass_left_f23250_2_0,Arm lean mass left,Arm
+arm_lean_mass_right_f23254_2_0,Arm lean mass right,Arm
+arm_tissue_fat_percentage_left_f23251_2_0,Arm tissue fat percentage left,Arm
+arm_tissue_fat_percentage_right_f23255_2_0,Arm tissue fat percentage right,Arm
+arm_total_mass_left_f23252_2_0,Arm total mass left,Arm
+arm_total_mass_right_f23256_2_0,Arm total mass right,Arm
+arms_fat_mass_f23257_2_0,Arms fat mass,Arm
+arms_lean_mass_f23258_2_0,Arms lean mass,Arm
+arms_tissue_fat_percentage_f23259_2_0,Arms tissue fat percentage,Arm
+arms_total_mass_f23260_2_0,Arms total mass,Arm
+gynoid_bone_mass_f23261_2_0,Gynoid bone mass,Hips
+gynoid_fat_mass_f23262_2_0,Gynoid fat mass,Hips
+gynoid_lean_mass_f23263_2_0,Gynoid lean mass,Hips
+gynoid_tissue_fat_percentage_f23264_2_0,Gynoid tissue fat percentage,Hips
+gynoid_total_mass_f23265_2_0,Gynoid total mass,Hips
+leg_fat_mass_left_f23266_2_0,Leg fat mass left,Leg
+leg_fat_mass_right_f23270_2_0,Leg fat mass right,Leg
+leg_lean_mass_left_f23267_2_0,Leg lean mass left,Leg
+leg_lean_mass_right_f23271_2_0,Leg lean mass right,Leg
+leg_tissue_fat_percentage_left_f23268_2_0,Leg tissue fat percentage left,Leg
+leg_tissue_fat_percentage_right_f23272_2_0,Leg tissue fat percentage right,Leg
+leg_total_mass_left_f23269_2_0,Leg total mass left,Leg
+leg_total_mass_right_f23273_2_0,Leg total mass right,Leg
+legs_fat_mass_f23274_2_0,Legs fat mass,Leg
+legs_lean_mass_f23275_2_0,Legs lean mass,Leg
+legs_tissue_fat_percentage_f23276_2_0,Legs tissue fat percentage,Leg
+legs_total_mass_f23277_2_0,Legs total mass,Leg
+total_fat_free_mass_f23279_2_0,Total fat free mass,Full Body
+total_fat_mass_f23278_2_0,Total fat mass,Full Body
+total_lean_mass_f23280_2_0,Total lean mass,Full Body
+total_mass_f23283_2_0,Total mass,Full Body
+total_tissue_fat_percentage_f23281_2_0,Total tissue fat percentage,Full Body
+total_tissue_mass_f23282_2_0,Total tissue mass,Full Body
+trunk_fat_mass_f23284_2_0,Trunk fat mass,Abdomen
+trunk_lean_mass_f23285_2_0,Trunk lean mass,Abdomen
+trunk_tissue_fat_percentage_f23286_2_0,Trunk tissue fat percentage,Abdomen
+trunk_total_mass_f23287_2_0,Trunk total mass,Abdomen
+vat_visceral_adipose_tissue_mass_f23288_2_0,Vat visceral adipose tissue mass,Abdomen
+vat_visceral_adipose_tissue_volume_f23289_2_0,Vat visceral adipose tissue volume,Abdomen

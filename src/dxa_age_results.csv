@@ -1,0 +1,47 @@
+Column Name,adiposity_type,Cofactor,body_part,estimate,stdev,t,p,significant
+android_bone_mass_f23244_2_0,Android bone mass,Age,Abdomen,-0.05202358531,0.01244438636,-4.180486189,2.96E-05,TRUE
+android_fat_mass_f23245_2_0,Android fat mass,Age,Abdomen,-0.03107514695,0.008928496166,-3.480445797,0.0005047726872,TRUE
+android_lean_mass_f23246_2_0,Android lean mass,Age,Abdomen,-0.09581415731,0.008113499548,-11.80922692,9.04E-32,TRUE
+android_tissue_fat_percentage_f23247_2_0,Android tissue fat percentage,Age,Abdomen,-0.001831351252,0.005457055983,-0.3355932682,0.7371793753,FALSE
+android_total_mass_f23248_2_0,Android total mass,Age,Abdomen,-0.07158534645,0.00299651288,-23.88955072,3.02E-125,TRUE
+arm_fat_mass_left_f23249_2_0,Arm fat mass left,Age,Arm,-0.01919473316,0.01020583652,-1.880760397,0.06007220056,FALSE
+arm_fat_mass_right_f23253_2_0,Arm fat mass right,Age,Arm,-0.01667864905,0.01025994995,-1.625607252,0.1041066839,FALSE
+arm_lean_mass_left_f23250_2_0,Arm lean mass left,Age,Arm,-0.1376596576,0.007685079373,-17.91258761,2.96E-69,TRUE
+arm_lean_mass_right_f23254_2_0,Arm lean mass right,Age,Arm,-0.1329568982,0.007547868684,-17.61515783,4.13E-67,TRUE
+arm_tissue_fat_percentage_left_f23251_2_0,Arm tissue fat percentage left,Age,Arm,-0.007812041234,0.009045587502,-0.8636300552,0.3878055144,FALSE
+arm_tissue_fat_percentage_right_f23255_2_0,Arm tissue fat percentage right,Age,Arm,-0.007958856429,0.009052012584,-0.8792361207,0.3792879165,FALSE
+arm_total_mass_left_f23252_2_0,Arm total mass left,Age,Arm,-0.1205042183,0.005732126976,-21.02260101,1.14E-96,TRUE
+arm_total_mass_right_f23256_2_0,Arm total mass right,Age,Arm,-0.1165722461,0.00569225943,-20.47908174,6.69E-92,TRUE
+arms_fat_mass_f23257_2_0,Arms fat mass,Age,Arm,-0.02141025424,0.009166956571,-2.335590233,0.01955118158,FALSE
+arms_lean_mass_f23258_2_0,Arms lean mass,Age,Arm,-0.1385533348,0.00680964381,-20.34663466,1.50E-88,TRUE
+arms_tissue_fat_percentage_f23259_2_0,Arms tissue fat percentage,Age,Arm,0.005160124298,0.005443347873,0.9479688637,0.3431510783,FALSE
+arms_total_mass_f23260_2_0,Arms total mass,Age,Arm,-0.1414392245,0.003119362001,-45.34235671,0,TRUE
+gynoid_bone_mass_f23261_2_0,Gynoid bone mass,Age,Hips,-0.1237755328,0.009423561032,-13.13468788,8.83E-39,TRUE
+gynoid_fat_mass_f23262_2_0,Gynoid fat mass,Age,Hips,-0.08799460347,0.009045299594,-9.728213262,3.56E-22,TRUE
+gynoid_lean_mass_f23263_2_0,Gynoid lean mass,Age,Hips,-0.1847483068,0.007741397904,-23.86498008,2.02E-119,TRUE
+gynoid_tissue_fat_percentage_f23264_2_0,Gynoid tissue fat percentage,Age,Hips,0.0006760120942,0.005435252275,0.124375477,0.9010186191,FALSE
+gynoid_total_mass_f23265_2_0,Gynoid total mass,Age,Hips,-0.1941225694,0.003516232974,-55.20753911,0,TRUE
+leg_fat_mass_left_f23266_2_0,Leg fat mass left,Age,Leg,-0.07291333284,0.01009096805,-7.225603378,5.88E-13,TRUE
+leg_fat_mass_right_f23270_2_0,Leg fat mass right,Age,Leg,-0.07912617214,0.01014899478,-7.796454117,7.94E-15,TRUE
+leg_lean_mass_left_f23267_2_0,Leg lean mass left,Age,Leg,-0.1841775372,0.008565325148,-21.50269068,1.74E-97,TRUE
+leg_lean_mass_right_f23271_2_0,Leg lean mass right,Age,Leg,-0.1886032307,0.008459231504,-22.29555139,2.78E-104,TRUE
+leg_tissue_fat_percentage_left_f23268_2_0,Leg tissue fat percentage left,Age,Leg,-0.009862042707,0.009030562593,-1.09207401,0.2748188209,FALSE
+leg_tissue_fat_percentage_right_f23272_2_0,Leg tissue fat percentage right,Age,Leg,-0.01024614145,0.009029678278,-1.134718329,0.2565122204,FALSE
+leg_total_mass_left_f23269_2_0,Leg total mass left,Age,Leg,-0.1722526415,0.006389039955,-26.96064552,3.11E-156,TRUE
+leg_total_mass_right_f23273_2_0,Leg total mass right,Age,Leg,-0.175328434,0.00638541426,-27.45764439,7.92E-162,TRUE
+legs_fat_mass_f23274_2_0,Legs fat mass,Age,Leg,-0.07720951419,0.009267432872,-8.331273099,1.02E-16,TRUE
+legs_lean_mass_f23275_2_0,Legs lean mass,Age,Leg,-0.1848430062,0.007714200245,-23.96139591,2.53E-120,TRUE
+legs_tissue_fat_percentage_f23276_2_0,Legs tissue fat percentage,Age,Leg,0.001413645621,0.005427648332,0.2604526923,0.7945159538,FALSE
+legs_total_mass_f23277_2_0,Legs total mass,Age,Leg,-0.1941278414,0.003584444574,-54.15841629,0,TRUE
+total_fat_free_mass_f23279_2_0,Total fat free mass,Age,Full Body,-0.1545742482,0.007173777947,-21.54711914,1.26E-98,TRUE
+total_fat_mass_f23278_2_0,Total fat mass,Age,Full Body,-0.04893750715,0.008366850229,-5.848976116,5.25E-09,TRUE
+total_lean_mass_f23280_2_0,Total lean mass,Age,Full Body,-0.1533758824,0.007206672211,-21.2824835,2.30E-96,TRUE
+total_mass_f23283_2_0,Total mass,Age,Full Body,-0.1376781094,0.002931545766,-46.96433909,0,TRUE
+total_tissue_fat_percentage_f23281_2_0,Total tissue fat percentage,Age,Full Body,0.0006174832869,0.005448805425,0.1133245251,0.9097738476,FALSE
+total_tissue_mass_f23282_2_0,Total tissue mass,Age,Full Body,-0.1309504376,0.007513066711,-17.42969184,3.93E-66,TRUE
+trunk_fat_mass_f23284_2_0,Trunk fat mass,Age,Abdomen,-0.03047800937,0.008711128979,-3.498743899,0.000471448031,TRUE
+trunk_lean_mass_f23285_2_0,Trunk lean mass,Age,Abdomen,-0.1256908333,0.008109869628,-15.49850233,5.64E-53,TRUE
+trunk_tissue_fat_percentage_f23286_2_0,Trunk tissue fat percentage,Age,Abdomen,-0.0004763292044,0.005458195151,-0.08726862842,0.9304584301,FALSE
+trunk_total_mass_f23287_2_0,Trunk total mass,Age,Abdomen,-0.09342029549,0.002924848672,-31.94021502,4.72E-221,TRUE
+vat_visceral_adipose_tissue_mass_f23288_2_0,VAT visceral adipose tissue mass,Age,Abdomen,0.06320685438,0.009655410339,6.546262888,6.49E-11,TRUE
+vat_visceral_adipose_tissue_volume_f23289_2_0,VAT visceral adipose tissue volume,Age,Abdomen,0.06319881072,0.009655491874,6.545374543,6.52E-11,TRUE

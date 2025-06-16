@@ -1,0 +1,203 @@
+adiposity_id,adiposity
+android_bone_mass_f23244_2_0.R-HSA-1227986,Android bone mass
+android_bone_mass_f23244_2_0.R-HSA-6783783,Android bone mass
+android_bone_mass_f23244_2_0.R-HSA-198933,Android bone mass
+android_bone_mass_f23244_2_0.R-HSA-8863795,Android bone mass
+android_bone_mass_f23244_2_0.R-HSA-2219528,Android bone mass
+android_bone_mass_f23244_2_0.R-HSA-9006925,Android bone mass
+android_bone_mass_f23244_2_0.R-HSA-1257604,Android bone mass
+android_fat_mass_f23245_2_0.R-HSA-163560,Android fat mass
+android_fat_mass_f23245_2_0.R-HSA-8979227,Android fat mass
+android_fat_mass_f23245_2_0.R-HSA-166663,Android fat mass
+android_fat_mass_f23245_2_0.R-HSA-6783783,Android fat mass
+android_fat_mass_f23245_2_0.R-HSA-168249,Android fat mass
+android_tissue_fat_percentage_f23247_2_0.R-HSA-6798695,Android tissue fat percentage
+android_tissue_fat_percentage_f23247_2_0.R-HSA-9716542,Android tissue fat percentage
+android_tissue_fat_percentage_f23247_2_0.R-HSA-168164,Android tissue fat percentage
+android_tissue_fat_percentage_f23247_2_0.R-HSA-9012999,Android tissue fat percentage
+android_tissue_fat_percentage_f23247_2_0.R-HSA-166658,Android tissue fat percentage
+android_tissue_fat_percentage_f23247_2_0.R-HSA-194315,Android tissue fat percentage
+android_tissue_fat_percentage_f23247_2_0.R-HSA-2454202,Android tissue fat percentage
+android_tissue_fat_percentage_f23247_2_0.R-HSA-977606,Android tissue fat percentage
+android_total_mass_f23248_2_0.R-HSA-6798695,Android total mass
+android_total_mass_f23248_2_0.R-HSA-168249,Android total mass
+android_total_mass_f23248_2_0.R-HSA-6783783,Android total mass
+android_total_mass_f23248_2_0.R-HSA-6785807,Android total mass
+arm_fat_mass_left_f23249_2_0.R-HSA-6783783,Arm fat mass left
+arm_fat_mass_left_f23249_2_0.R-HSA-6798695,Arm fat mass left
+arm_fat_mass_left_f23249_2_0.R-HSA-168249,Arm fat mass left
+arm_fat_mass_left_f23249_2_0.R-HSA-2024101,Arm fat mass left
+arm_fat_mass_left_f23249_2_0.R-HSA-6785807,Arm fat mass left
+arm_fat_mass_right_f23253_2_0.R-HSA-168249,Arm fat mass right
+arm_fat_mass_right_f23253_2_0.R-HSA-6783783,Arm fat mass right
+arm_fat_mass_right_f23253_2_0.R-HSA-2024101,Arm fat mass right
+arm_fat_mass_right_f23253_2_0.R-HSA-6798695,Arm fat mass right
+arm_fat_mass_right_f23253_2_0.R-HSA-6785807,Arm fat mass right
+arm_fat_mass_right_f23253_2_0.R-HSA-3000178,Arm fat mass right
+arm_total_mass_left_f23252_2_0.R-HSA-6798695,Arm total mass left
+arm_total_mass_left_f23252_2_0.R-HSA-6783783,Arm total mass left
+arm_total_mass_left_f23252_2_0.R-HSA-168249,Arm total mass left
+arm_total_mass_left_f23252_2_0.R-HSA-1280218,Arm total mass left
+arm_total_mass_right_f23256_2_0.R-HSA-6798695,Arm total mass right
+arm_total_mass_right_f23256_2_0.R-HSA-6783783,Arm total mass right
+arm_total_mass_right_f23256_2_0.R-HSA-168249,Arm total mass right
+arm_total_mass_right_f23256_2_0.R-HSA-1280218,Arm total mass right
+arms_fat_mass_f23257_2_0.R-HSA-6798695,Arms fat mass
+arms_fat_mass_f23257_2_0.R-HSA-168249,Arms fat mass
+arms_fat_mass_f23257_2_0.R-HSA-6783783,Arms fat mass
+arms_tissue_fat_percentage_f23259_2_0.R-HSA-2454202,Arms tissue fat percentage
+arms_tissue_fat_percentage_f23259_2_0.R-HSA-165159,Arms tissue fat percentage
+arms_tissue_fat_percentage_f23259_2_0.R-HSA-9716542,Arms tissue fat percentage
+arms_tissue_fat_percentage_f23259_2_0.R-HSA-2262752,Arms tissue fat percentage
+arms_tissue_fat_percentage_f23259_2_0.R-HSA-8953897,Arms tissue fat percentage
+arms_total_mass_f23260_2_0.R-HSA-6783783,Arms total mass
+arms_total_mass_f23260_2_0.R-HSA-6798695,Arms total mass
+arms_total_mass_f23260_2_0.R-HSA-168249,Arms total mass
+gynoid_bone_mass_f23261_2_0.R-HSA-6783783,Gynoid bone mass
+gynoid_bone_mass_f23261_2_0.R-HSA-198933,Gynoid bone mass
+gynoid_fat_mass_f23262_2_0.R-HSA-6783783,Gynoid fat mass
+gynoid_fat_mass_f23262_2_0.R-HSA-168249,Gynoid fat mass
+gynoid_fat_mass_f23262_2_0.R-HSA-6798695,Gynoid fat mass
+gynoid_tissue_fat_percentage_f23264_2_0.R-HSA-2454202,Gynoid tissue fat percentage
+gynoid_tissue_fat_percentage_f23264_2_0.R-HSA-168164,Gynoid tissue fat percentage
+gynoid_tissue_fat_percentage_f23264_2_0.R-HSA-9716542,Gynoid tissue fat percentage
+gynoid_tissue_fat_percentage_f23264_2_0.R-HSA-2262752,Gynoid tissue fat percentage
+gynoid_tissue_fat_percentage_f23264_2_0.R-HSA-8953897,Gynoid tissue fat percentage
+gynoid_tissue_fat_percentage_f23264_2_0.R-HSA-9012999,Gynoid tissue fat percentage
+gynoid_tissue_fat_percentage_f23264_2_0.R-HSA-194315,Gynoid tissue fat percentage
+gynoid_total_mass_f23265_2_0.R-HSA-198933,Gynoid total mass
+gynoid_total_mass_f23265_2_0.R-HSA-6798695,Gynoid total mass
+gynoid_total_mass_f23265_2_0.R-HSA-168249,Gynoid total mass
+gynoid_total_mass_f23265_2_0.R-HSA-8935690,Gynoid total mass
+gynoid_total_mass_f23265_2_0.R-HSA-8963743,Gynoid total mass
+gynoid_total_mass_f23265_2_0.R-HSA-2024101,Gynoid total mass
+gynoid_total_mass_f23265_2_0.R-HSA-1280218,Gynoid total mass
+gynoid_total_mass_f23265_2_0.R-HSA-6783783,Gynoid total mass
+gynoid_total_mass_f23265_2_0.R-HSA-5669034,Gynoid total mass
+leg_fat_mass_left_f23266_2_0.R-HSA-168249,Leg fat mass left
+leg_fat_mass_left_f23266_2_0.R-HSA-6798695,Leg fat mass left
+leg_fat_mass_left_f23266_2_0.R-HSA-6783783,Leg fat mass left
+leg_fat_mass_left_f23266_2_0.R-HSA-198933,Leg fat mass left
+leg_fat_mass_left_f23266_2_0.R-HSA-5668541,Leg fat mass left
+leg_fat_mass_left_f23266_2_0.R-HSA-8935690,Leg fat mass left
+leg_fat_mass_left_f23266_2_0.R-HSA-8963743,Leg fat mass left
+leg_fat_mass_left_f23266_2_0.R-HSA-2024101,Leg fat mass left
+leg_fat_mass_right_f23270_2_0.R-HSA-6798695,Leg fat mass right
+leg_fat_mass_right_f23270_2_0.R-HSA-168249,Leg fat mass right
+leg_fat_mass_right_f23270_2_0.R-HSA-6783783,Leg fat mass right
+leg_fat_mass_right_f23270_2_0.R-HSA-5668541,Leg fat mass right
+leg_fat_mass_right_f23270_2_0.R-HSA-198933,Leg fat mass right
+leg_fat_mass_right_f23270_2_0.R-HSA-6785807,Leg fat mass right
+leg_fat_mass_right_f23270_2_0.R-HSA-8935690,Leg fat mass right
+leg_fat_mass_right_f23270_2_0.R-HSA-8963743,Leg fat mass right
+leg_lean_mass_left_f23267_2_0,Leg lean mass left
+leg_total_mass_left_f23269_2_0.R-HSA-5669034,Leg total mass left
+leg_total_mass_left_f23269_2_0.R-HSA-5668541,Leg total mass left
+leg_total_mass_left_f23269_2_0.R-HSA-198933,Leg total mass left
+leg_total_mass_left_f23269_2_0.R-HSA-1280218,Leg total mass left
+leg_total_mass_left_f23269_2_0.R-HSA-6798695,Leg total mass left
+leg_total_mass_left_f23269_2_0.R-HSA-168249,Leg total mass left
+leg_total_mass_left_f23269_2_0.R-HSA-8935690,Leg total mass left
+leg_total_mass_left_f23269_2_0.R-HSA-8963743,Leg total mass left
+leg_total_mass_left_f23269_2_0.R-HSA-6783783,Leg total mass left
+leg_total_mass_left_f23269_2_0.R-HSA-1280215,Leg total mass left
+leg_total_mass_right_f23273_2_0.R-HSA-8935690,Leg total mass right
+leg_total_mass_right_f23273_2_0.R-HSA-8963743,Leg total mass right
+leg_total_mass_right_f23273_2_0.R-HSA-5668541,Leg total mass right
+leg_total_mass_right_f23273_2_0.R-HSA-6798695,Leg total mass right
+leg_total_mass_right_f23273_2_0.R-HSA-1280218,Leg total mass right
+leg_total_mass_right_f23273_2_0.R-HSA-168249,Leg total mass right
+leg_total_mass_right_f23273_2_0.R-HSA-5669034,Leg total mass right
+leg_total_mass_right_f23273_2_0.R-HSA-198933,Leg total mass right
+leg_total_mass_right_f23273_2_0.R-HSA-1280215,Leg total mass right
+leg_total_mass_right_f23273_2_0.R-HSA-6783783,Leg total mass right
+leg_total_mass_right_f23273_2_0.R-HSA-449147,Leg total mass right
+legs_fat_mass_f23274_2_0.R-HSA-6783783,Legs fat mass
+legs_fat_mass_f23274_2_0.R-HSA-6798695,Legs fat mass
+legs_fat_mass_f23274_2_0.R-HSA-168249,Legs fat mass
+legs_fat_mass_f23274_2_0.R-HSA-198933,Legs fat mass
+legs_fat_mass_f23274_2_0.R-HSA-8935690,Legs fat mass
+legs_fat_mass_f23274_2_0.R-HSA-8963743,Legs fat mass
+legs_fat_mass_f23274_2_0.R-HSA-2024101,Legs fat mass
+legs_fat_mass_f23274_2_0.R-HSA-5668541,Legs fat mass
+legs_fat_mass_f23274_2_0.R-HSA-5669034,Legs fat mass
+legs_tissue_fat_percentage_f23276_2_0.R-HSA-2454202,Legs tissue fat percentage
+legs_tissue_fat_percentage_f23276_2_0.R-HSA-2262752,Legs tissue fat percentage
+legs_tissue_fat_percentage_f23276_2_0.R-HSA-8953897,Legs tissue fat percentage
+legs_total_mass_f23277_2_0.R-HSA-198933,Legs total mass
+legs_total_mass_f23277_2_0.R-HSA-2024101,Legs total mass
+legs_total_mass_f23277_2_0.R-HSA-5669034,Legs total mass
+legs_total_mass_f23277_2_0.R-HSA-6798695,Legs total mass
+legs_total_mass_f23277_2_0.R-HSA-168249,Legs total mass
+legs_total_mass_f23277_2_0.R-HSA-1280218,Legs total mass
+legs_total_mass_f23277_2_0.R-HSA-6783783,Legs total mass
+legs_total_mass_f23277_2_0.R-HSA-166658,Legs total mass
+legs_total_mass_f23277_2_0.R-HSA-5668541,Legs total mass
+total_fat_mass_f23278_2_0.R-HSA-6783783,Total fat mass
+total_fat_mass_f23278_2_0.R-HSA-168249,Total fat mass
+total_fat_mass_f23278_2_0.R-HSA-6798695,Total fat mass
+total_fat_mass_f23278_2_0.R-HSA-163560,Total fat mass
+total_fat_mass_f23278_2_0.R-HSA-8979227,Total fat mass
+total_fat_mass_f23278_2_0.R-HSA-8935690,Total fat mass
+total_fat_mass_f23278_2_0.R-HSA-8963743,Total fat mass
+total_fat_mass_f23278_2_0.R-HSA-2024101,Total fat mass
+total_mass_f23283_2_0.R-HSA-6798695,Total mass
+total_mass_f23283_2_0.R-HSA-168249,Total mass
+total_mass_f23283_2_0.R-HSA-6783783,Total mass
+total_mass_f23283_2_0.R-HSA-198933,Total mass
+total_tissue_fat_percentage_f23281_2_0.R-HSA-2454202,Total tissue fat percentage
+total_tissue_fat_percentage_f23281_2_0.R-HSA-168164,Total tissue fat percentage
+total_tissue_fat_percentage_f23281_2_0.R-HSA-9716542,Total tissue fat percentage
+total_tissue_fat_percentage_f23281_2_0.R-HSA-6798695,Total tissue fat percentage
+total_tissue_fat_percentage_f23281_2_0.R-HSA-9012999,Total tissue fat percentage
+total_tissue_fat_percentage_f23281_2_0.R-HSA-194315,Total tissue fat percentage
+total_tissue_fat_percentage_f23281_2_0.R-HSA-165159,Total tissue fat percentage
+total_tissue_mass_f23282_2_0.R-HSA-2024101,Total tissue mass
+total_tissue_mass_f23282_2_0.R-HSA-9820960,Total tissue mass
+total_tissue_mass_f23282_2_0.R-HSA-6783783,Total tissue mass
+total_tissue_mass_f23282_2_0.R-HSA-166658,Total tissue mass
+total_tissue_mass_f23282_2_0.R-HSA-5668541,Total tissue mass
+total_tissue_mass_f23282_2_0.R-HSA-6798695,Total tissue mass
+total_tissue_mass_f23282_2_0.R-HSA-168249,Total tissue mass
+total_tissue_mass_f23282_2_0.R-HSA-8935690,Total tissue mass
+total_tissue_mass_f23282_2_0.R-HSA-8963743,Total tissue mass
+total_tissue_mass_f23282_2_0.R-HSA-5669034,Total tissue mass
+total_tissue_mass_f23282_2_0.R-HSA-163560,Total tissue mass
+total_tissue_mass_f23282_2_0.R-HSA-8979227,Total tissue mass
+trunk_fat_mass_f23284_2_0.R-HSA-6783783,Trunk fat mass
+trunk_fat_mass_f23284_2_0.R-HSA-168249,Trunk fat mass
+trunk_fat_mass_f23284_2_0.R-HSA-163560,Trunk fat mass
+trunk_fat_mass_f23284_2_0.R-HSA-8979227,Trunk fat mass
+trunk_fat_mass_f23284_2_0.R-HSA-6798695,Trunk fat mass
+trunk_fat_mass_f23284_2_0.R-HSA-166663,Trunk fat mass
+trunk_fat_mass_f23284_2_0.R-HSA-8935690,Trunk fat mass
+trunk_fat_mass_f23284_2_0.R-HSA-8963743,Trunk fat mass
+trunk_tissue_fat_percentage_f23286_2_0.R-HSA-6798695,Trunk tissue fat percentage
+trunk_tissue_fat_percentage_f23286_2_0.R-HSA-168164,Trunk tissue fat percentage
+trunk_tissue_fat_percentage_f23286_2_0.R-HSA-2454202,Trunk tissue fat percentage
+trunk_tissue_fat_percentage_f23286_2_0.R-HSA-9716542,Trunk tissue fat percentage
+trunk_tissue_fat_percentage_f23286_2_0.R-HSA-194315,Trunk tissue fat percentage
+trunk_tissue_fat_percentage_f23286_2_0.R-HSA-9012999,Trunk tissue fat percentage
+trunk_tissue_fat_percentage_f23286_2_0.R-HSA-168142,Trunk tissue fat percentage
+trunk_tissue_fat_percentage_f23286_2_0.R-HSA-168176,Trunk tissue fat percentage
+trunk_tissue_fat_percentage_f23286_2_0.R-HSA-975871,Trunk tissue fat percentage
+trunk_tissue_fat_percentage_f23286_2_0.R-HSA-977606,Trunk tissue fat percentage
+trunk_tissue_fat_percentage_f23286_2_0.R-HSA-166658,Trunk tissue fat percentage
+trunk_tissue_fat_percentage_f23286_2_0.R-HSA-5688426,Trunk tissue fat percentage
+trunk_tissue_fat_percentage_f23286_2_0.R-HSA-196849,Trunk tissue fat percentage
+trunk_total_mass_f23287_2_0.R-HSA-6798695,Trunk total mass
+trunk_total_mass_f23287_2_0.R-HSA-168249,Trunk total mass
+trunk_total_mass_f23287_2_0.R-HSA-6783783,Trunk total mass
+trunk_total_mass_f23287_2_0.R-HSA-166663,Trunk total mass
+vat_visceral_adipose_tissue_mass_f23288_2_0.R-HSA-166658,Vat visceral adipose tissue mass
+vat_visceral_adipose_tissue_mass_f23288_2_0.R-HSA-977606,Vat visceral adipose tissue mass
+vat_visceral_adipose_tissue_mass_f23288_2_0.R-HSA-163560,Vat visceral adipose tissue mass
+vat_visceral_adipose_tissue_mass_f23288_2_0.R-HSA-8979227,Vat visceral adipose tissue mass
+vat_visceral_adipose_tissue_mass_f23288_2_0.R-HSA-166663,Vat visceral adipose tissue mass
+vat_visceral_adipose_tissue_mass_f23288_2_0.R-HSA-211859,Vat visceral adipose tissue mass
+vat_visceral_adipose_tissue_mass_f23288_2_0.R-HSA-6783783,Vat visceral adipose tissue mass
+vat_visceral_adipose_tissue_volume_f23289_2_0.R-HSA-166658,Vat visceral adipose tissue volume
+vat_visceral_adipose_tissue_volume_f23289_2_0.R-HSA-977606,Vat visceral adipose tissue volume
+vat_visceral_adipose_tissue_volume_f23289_2_0.R-HSA-166663,Vat visceral adipose tissue volume
+vat_visceral_adipose_tissue_volume_f23289_2_0.R-HSA-163560,Vat visceral adipose tissue volume
+vat_visceral_adipose_tissue_volume_f23289_2_0.R-HSA-8979227,Vat visceral adipose tissue volume

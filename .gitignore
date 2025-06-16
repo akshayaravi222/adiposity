@@ -1,0 +1,3 @@
+src/demos_dxa_proteome.rds
+*.out
+out/slurm_proteome_assoc/
