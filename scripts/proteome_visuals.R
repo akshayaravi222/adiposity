@@ -1,9 +1,10 @@
 library(dplyr)
 library(ggplot2)
 library(viridis)
+library(stringr)
 
 
-results <- read.csv('/n/groups/patel/akshaya/01_ukb/out/slurm_proteome_assoc/batch_proteome_combined.csv', header=T)
+results <- read.csv('/n/groups/patel/akshaya/01_ukb/out/batch_proteome_combined.csv', header=T)
 nrow(results)
 results <- results %>%
   filter(Adiposity != "Adiposity")
@@ -27,7 +28,7 @@ dev.off()
 
 
 
-# Pathway visuals
+# Pathway and tissue visuals
 pathways_output <- readRDS('/n/groups/patel/akshaya/01_ukb/out/proteome_pathways.rds')
 head(pathways_output)
 test_pathways <- do.call(rbind, pathways_output)
@@ -54,31 +55,39 @@ ggplot(data=test_pathways, aes(x=Description, y=adiposity, fill=NES)) +
        title='Pathway Analysis of Adiposities (Ranked by z-values of proteome)')
 dev.off()
 
-# head(test)
-# 
-# nes_only <- test_pathways %>% select(c('Description', 'adiposity', 'NES'))
-# wide_pathways <- reshape(nes_only, idvar = "Description", timevar = "adiposity", direction = "wide")
-# head(wide_pathways)
-# 
-# library(ggcorrplot)
-# wide_pathways[,2:33] <- sapply(wide_pathways[,2:33],as.numeric)
-# head(wide_pathways)
-# library(pheatmap)
 
-# png('/n/groups/patel/akshaya/01_ukb/out/proteome_pathways_2.png', width=1600, height=1600)
-# ggcorrplot(wide_pathways, hc.order = TRUE, type = "lower",
-#                   outline.col = "white") +  # for numbers inside tiles
-#   scale_fill_gradient2(
-#     low = "blue", mid = "white", high = "red",
-#     midpoint = 0, limit = c(-10, 10),
-#     name = expression(rho)  # for Greek ρ
-#     # Or use: name = "Spearman correlation"
-#   ) +
-#   theme(
-#     axis.text.x = element_text(angle = 45, size = 16),  # adjust as needed
-#     axis.text.y = element_text(size = 16)
-#   )
-# dev.off()
+tissues_output <- readRDS('/n/groups/patel/akshaya/01_ukb/out/proteome_tissues.rds')
+head(tissues_output)
+test_tissues <- do.call(rbind, tissues_output)
+head(test_tissues)
+test_tissues$adiposity_id <- rownames(test_tissues)
+test_tissues <- as.data.frame(test_tissues)
+
+adiposity_conversion <- str_split_fixed(test_tissues$adiposity_id, "_f2", 2)
+colnames(adiposity_conversion) <- c('adiposity', 'junk')
+adiposity_conversion <- as.data.frame(adiposity_conversion)
+adiposity_conversion <- adiposity_conversion %>%
+  mutate(adiposity_id = paste(adiposity, "_f2", junk, sep='')) %>%
+  select(-junk)
+head(adiposity_conversion)
+
+test_tissues <- test_tissues %>% full_join(adiposity_conversion, by='adiposity_id')
+head(test_tissues)
+
+
+png('/n/groups/patel/akshaya/01_ukb/out/proteome_tissues.png', width=2000, height=1600)
+ggplot(data=test_tissues, aes(x=Description, y=adiposity, fill=NES)) + 
+  geom_tile() + 
+  scale_fill_viridis(option="turbo") +
+  scale_x_discrete(labels = function(x) str_wrap(x, width = 35)) +
+  theme_bw() + 
+  theme(axis.text.x = element_text(angle=90), 
+        axis.text = element_text(size=14), 
+        axis.title=element_text(size=16), 
+        title=element_text(size=20)) + 
+  labs(x='Tissue', y='Adiposity', 
+       title='Tissue Analysis of Adiposities (Ranked by z-values of proteome)')
+dev.off()
 
 
 

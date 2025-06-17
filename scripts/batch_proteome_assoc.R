@@ -9,7 +9,7 @@ i <- as.integer(args[1])
 
 # i loops between 58 and 103
 adiposity <- names(overall)[i]
-protein_names  <- names(overall)[104:3025] #3025
+protein_names  <- names(overall)[104:3026]
 
 results_list <- list()
 

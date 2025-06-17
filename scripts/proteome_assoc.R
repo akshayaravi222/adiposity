@@ -61,7 +61,7 @@ dxa_scaled <- as.data.frame(dxa_scaled)
 dxa_scaled <- dxa_scaled %>% rename(eid = V1)
 head(dxa_scaled)
 
-str(impedance[,49:148])
+# str(impedance[,49:148])
 # Binary: impedance_device_id_f43_0_0 (46), impedance_device_id_f43_1_0 (47), impedance_device_id_f43_2_0 (48), impedance_device_id_f43_3_0 (49)
 
 # imp_scaled_1 <- scale(impedance[,2:12])

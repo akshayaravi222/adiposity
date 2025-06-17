@@ -1,3 +1,7 @@
 src/demos_dxa_proteome.rds
+src/demos_dxa_exposures.rds
 *.out
 out/slurm_proteome_assoc/
+out/slurm_exposome_assoc/
+out/batch_proteome_stdout/
+out/batch_exposome_stdout/
