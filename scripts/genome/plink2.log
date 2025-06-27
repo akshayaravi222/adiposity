@@ -1,0 +1,15 @@
+PLINK v2.0.0-a.6.16LM 64-bit Intel (9 Jun 2025)
+Options in effect:
+  --bgen /n/no_backup2/patel/uk_biobank/ukb_genetics/52887/project_52887_genetics/ukb_imp_chr22_v3.bgen ref-first
+  --max-alleles 2
+  --sample /n/no_backup2/patel/uk_biobank/ukb_genetics/52887/project_52887_genetics/ukb52887_imp_chr22_v3_s487296.sample
+  --write-variants bgen_variants.txt
+
+Hostname: login04.o2.rc.hms.harvard.edu
+Working directory: /n/groups/patel/akshaya/01_ukb/scripts/genome
+Start time: Fri Jun 27 17:15:38 2025
+
+Error: Unrecognized flag ('--write-variants').
+For more info, try "plink2 --help <flag name>" or "plink2 --help | more".
+
+End time: Fri Jun 27 17:15:38 2025

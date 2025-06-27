@@ -12,7 +12,9 @@ library(DOSE)
 library(clusterProfiler)
 library(enrichplot)
 
-results <- read.csv('/n/groups/patel/akshaya/01_ukb/out/slurm_proteome_assoc/batch_proteome_combined.csv', header=T)
+# results <- read.csv('/n/groups/patel/akshaya/01_ukb/out/slurm_proteome_assoc/batch_proteome_combined.csv', header=T)
+results <- read.table('/n/groups/patel/akshaya/01_ukb/out/bmi_batch_combined.txt', header=F, sep=',')
+colnames(results) <- c("Adiposity","Protein","estimate","sterror","z_value","p_value","n")
 nrow(results)
 
 results <- results %>%
@@ -183,8 +185,31 @@ pathway <- pblapply(adiposity, function(x) {
 })
 names(pathway) <- adiposity
 
-saveRDS(tissue, file='/n/groups/patel/akshaya/01_ukb/out/proteome_tissues.rds')
-saveRDS(pathway, file='/n/groups/patel/akshaya/01_ukb/out/proteome_pathways.rds')
+saveRDS(tissue, file='/n/groups/patel/akshaya/01_ukb/out/bmi_proteome_tissues.rds')
+
+
+
+# Parse Entrez IDs
+gs <- setNames(df$core_enrichment, df$ID)
+gs <- lapply(gs, function(s) unique(strsplit(s, "/", fixed = TRUE)[[1]]))
+
+# Map Entrez to SYMBOL
+all_entrez <- unique(unlist(gs))
+entrez2symbol <- mapIds(org.Hs.eg.db,
+                        keys = all_entrez,
+                        column = "SYMBOL",
+                        keytype = "ENTREZID",
+                        multiVals = "first")
+
+# Convert gene sets to SYMBOLs
+gs_symbols <- lapply(gs, function(vec) {
+  syms <- entrez2symbol[vec]
+  syms[is.na(syms)] <- vec[is.na(syms)]  # fallback to Entrez
+  syms
+})
+gs_symbols
+
+saveRDS(pathway, file='/n/groups/patel/akshaya/01_ukb/out/bmi_proteome_pathways.rds')
 
 
 
